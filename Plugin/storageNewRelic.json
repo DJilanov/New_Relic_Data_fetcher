@@ -1,0 +1,1933 @@
+{
+    "objects": [
+        [
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T12:59:00Z",
+                "end": "2013-12-28T13:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0050605509214427
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:02:00Z",
+                "end": "2013-12-28T13:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0086441759527082
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:05:00Z",
+                "end": "2013-12-28T13:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00889826679651
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:08:00Z",
+                "end": "2013-12-28T13:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0089510017473839
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:11:00Z",
+                "end": "2013-12-28T13:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.008215026907364
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:14:00Z",
+                "end": "2013-12-28T13:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0084871399677638
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:17:00Z",
+                "end": "2013-12-28T13:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0082607735928736
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:20:00Z",
+                "end": "2013-12-28T13:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0087059882838874
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:23:00Z",
+                "end": "2013-12-28T13:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.008107020498343
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:26:00Z",
+                "end": "2013-12-28T13:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0072424576013208
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:29:00Z",
+                "end": "2013-12-28T13:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0069369259770424
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:32:00Z",
+                "end": "2013-12-28T13:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0077744363531764
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:35:00Z",
+                "end": "2013-12-28T13:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0078541235174522
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:38:00Z",
+                "end": "2013-12-28T13:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0084949453459707
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:41:00Z",
+                "end": "2013-12-28T13:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0082812475721701
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:44:00Z",
+                "end": "2013-12-28T13:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.009062593738363
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:47:00Z",
+                "end": "2013-12-28T13:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0094233333405869
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:50:00Z",
+                "end": "2013-12-28T13:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.009678069303727
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:53:00Z",
+                "end": "2013-12-28T13:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0087777744282057
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:56:00Z",
+                "end": "2013-12-28T13:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.011805593971791
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T13:59:00Z",
+                "end": "2013-12-28T14:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0049587762568092
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:02:00Z",
+                "end": "2013-12-28T14:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00828932438884
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:05:00Z",
+                "end": "2013-12-28T14:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0093462892372005
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:08:00Z",
+                "end": "2013-12-28T14:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0090574521982171
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:11:00Z",
+                "end": "2013-12-28T14:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0088471355306754
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:14:00Z",
+                "end": "2013-12-28T14:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0083007691958641
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:17:00Z",
+                "end": "2013-12-28T14:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0079441226235713
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:20:00Z",
+                "end": "2013-12-28T14:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0087167280284015
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:23:00Z",
+                "end": "2013-12-28T14:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0079071418759995
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:26:00Z",
+                "end": "2013-12-28T14:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0074038786025439
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:29:00Z",
+                "end": "2013-12-28T14:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0061708059000713
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:32:00Z",
+                "end": "2013-12-28T14:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0076135612336813
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:35:00Z",
+                "end": "2013-12-28T14:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0080496295091493
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:38:00Z",
+                "end": "2013-12-28T14:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0095350360095679
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:41:00Z",
+                "end": "2013-12-28T14:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.012081274898081
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:44:00Z",
+                "end": "2013-12-28T14:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.01074172033892
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:47:00Z",
+                "end": "2013-12-28T14:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0074553983555514
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:50:00Z",
+                "end": "2013-12-28T14:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0076308646080243
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:53:00Z",
+                "end": "2013-12-28T14:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0081932941111074
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:56:00Z",
+                "end": "2013-12-28T14:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0074218985009629
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T14:59:00Z",
+                "end": "2013-12-28T15:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0074044157916868
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:02:00Z",
+                "end": "2013-12-28T15:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.009898677584172
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:05:00Z",
+                "end": "2013-12-28T15:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0099974586525045
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:08:00Z",
+                "end": "2013-12-28T15:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0095462817645951
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:11:00Z",
+                "end": "2013-12-28T15:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0092220494004547
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:14:00Z",
+                "end": "2013-12-28T15:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0096044011928372
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:17:00Z",
+                "end": "2013-12-28T15:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0096644316430426
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:20:00Z",
+                "end": "2013-12-28T15:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0086561927717797
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:23:00Z",
+                "end": "2013-12-28T15:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0083543345867435
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:26:00Z",
+                "end": "2013-12-28T15:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0087102061372183
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:29:00Z",
+                "end": "2013-12-28T15:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0069872677595455
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:32:00Z",
+                "end": "2013-12-28T15:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0078720797588529
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:35:00Z",
+                "end": "2013-12-28T15:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0081407039651817
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:38:00Z",
+                "end": "2013-12-28T15:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0088055656604975
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:41:00Z",
+                "end": "2013-12-28T15:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0081904075560848
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:44:00Z",
+                "end": "2013-12-28T15:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0091597392729924
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:47:00Z",
+                "end": "2013-12-28T15:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0088332464706958
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:50:00Z",
+                "end": "2013-12-28T15:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0085323377876304
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:53:00Z",
+                "end": "2013-12-28T15:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0098368629720044
+            },
+            {
+                "name": "FIRST NAME",
+                "begin": "2013-12-28T15:56:00Z",
+                "end": "2013-12-28T15:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0075998188627109
+            }
+        ],
+        [
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T12:59:00Z",
+                "end": "2013-12-28T13:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0059804847340258
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:02:00Z",
+                "end": "2013-12-28T13:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0035031847133758
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:05:00Z",
+                "end": "2013-12-28T13:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0025023459493275
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:08:00Z",
+                "end": "2013-12-28T13:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0057251908396947
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:11:00Z",
+                "end": "2013-12-28T13:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0075757575757576
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:14:00Z",
+                "end": "2013-12-28T13:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.029938271604938
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:17:00Z",
+                "end": "2013-12-28T13:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.038933812518718
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:20:00Z",
+                "end": "2013-12-28T13:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.03917400546614
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:23:00Z",
+                "end": "2013-12-28T13:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.038984587488667
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:26:00Z",
+                "end": "2013-12-28T13:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.036085626911315
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:29:00Z",
+                "end": "2013-12-28T13:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.050516986706056
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:32:00Z",
+                "end": "2013-12-28T13:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.038672350791717
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:35:00Z",
+                "end": "2013-12-28T13:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.035531466425775
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:38:00Z",
+                "end": "2013-12-28T13:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.040169133192389
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:41:00Z",
+                "end": "2013-12-28T13:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0065768869401816
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:44:00Z",
+                "end": "2013-12-28T13:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0073341836734694
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:47:00Z",
+                "end": "2013-12-28T13:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0025094102885822
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:50:00Z",
+                "end": "2013-12-28T13:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0032041012495995
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:53:00Z",
+                "end": "2013-12-28T13:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.01188986232791
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:56:00Z",
+                "end": "2013-12-28T13:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.008294930875576
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T13:59:00Z",
+                "end": "2013-12-28T14:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0049474335188621
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:02:00Z",
+                "end": "2013-12-28T14:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0095298602287166
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:05:00Z",
+                "end": "2013-12-28T14:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0034744156664561
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:08:00Z",
+                "end": "2013-12-28T14:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0031735956839099
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:11:00Z",
+                "end": "2013-12-28T14:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0025070510811658
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:14:00Z",
+                "end": "2013-12-28T14:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.021813649111873
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:17:00Z",
+                "end": "2013-12-28T14:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.022565687789799
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:20:00Z",
+                "end": "2013-12-28T14:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0441400304414
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:23:00Z",
+                "end": "2013-12-28T14:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.043046357615894
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:26:00Z",
+                "end": "2013-12-28T14:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.035055908129344
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:29:00Z",
+                "end": "2013-12-28T14:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.068208430913349
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:32:00Z",
+                "end": "2013-12-28T14:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.045083207261725
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:35:00Z",
+                "end": "2013-12-28T14:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.049048751486326
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:38:00Z",
+                "end": "2013-12-28T14:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.03905540417802
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:41:00Z",
+                "end": "2013-12-28T14:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.029003394014193
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:44:00Z",
+                "end": "2013-12-28T14:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.011455108359133
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:47:00Z",
+                "end": "2013-12-28T14:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0041773778920308
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:50:00Z",
+                "end": "2013-12-28T14:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.011313639220616
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:53:00Z",
+                "end": "2013-12-28T14:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.014650872817955
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:56:00Z",
+                "end": "2013-12-28T14:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.01
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T14:59:00Z",
+                "end": "2013-12-28T15:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.029892141756549
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:02:00Z",
+                "end": "2013-12-28T15:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0044472681067344
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:05:00Z",
+                "end": "2013-12-28T15:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0034810126582278
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:08:00Z",
+                "end": "2013-12-28T15:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.017456359102244
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:11:00Z",
+                "end": "2013-12-28T15:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.010003125976868
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:14:00Z",
+                "end": "2013-12-28T15:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.030892801977139
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:17:00Z",
+                "end": "2013-12-28T15:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.020846106683017
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:20:00Z",
+                "end": "2013-12-28T15:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.036247334754797
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:23:00Z",
+                "end": "2013-12-28T15:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.044704470447045
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:26:00Z",
+                "end": "2013-12-28T15:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.037678517168034
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:29:00Z",
+                "end": "2013-12-28T15:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.060747663551402
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:32:00Z",
+                "end": "2013-12-28T15:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.055488540410133
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:35:00Z",
+                "end": "2013-12-28T15:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.03448275862069
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:38:00Z",
+                "end": "2013-12-28T15:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.061721068249258
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:41:00Z",
+                "end": "2013-12-28T15:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.037420139945239
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:44:00Z",
+                "end": "2013-12-28T15:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0041009463722397
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:47:00Z",
+                "end": "2013-12-28T15:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0041335453100159
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:50:00Z",
+                "end": "2013-12-28T15:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.013547574039067
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:53:00Z",
+                "end": "2013-12-28T15:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0031259768677712
+            },
+            {
+                "name": "SECOND NAME",
+                "begin": "2013-12-28T15:56:00Z",
+                "end": "2013-12-28T15:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0034843205574913
+            }
+        ],
+        [
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T12:59:00Z",
+                "end": "2013-12-28T13:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00046262658617704
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:02:00Z",
+                "end": "2013-12-28T13:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031578636236352
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:05:00Z",
+                "end": "2013-12-28T13:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00049195997763169
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:08:00Z",
+                "end": "2013-12-28T13:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00040078650093648
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:11:00Z",
+                "end": "2013-12-28T13:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00039156262593883
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:14:00Z",
+                "end": "2013-12-28T13:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0003218947703371
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:17:00Z",
+                "end": "2013-12-28T13:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00033729031492011
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:20:00Z",
+                "end": "2013-12-28T13:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.000580400013337
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:23:00Z",
+                "end": "2013-12-28T13:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00029121068514354
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:26:00Z",
+                "end": "2013-12-28T13:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00027670594733216
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:29:00Z",
+                "end": "2013-12-28T13:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00033863670371167
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:32:00Z",
+                "end": "2013-12-28T13:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00037219720570336
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:35:00Z",
+                "end": "2013-12-28T13:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00050014605178687
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:38:00Z",
+                "end": "2013-12-28T13:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00035999234179548
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:41:00Z",
+                "end": "2013-12-28T13:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.000394259734955
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:44:00Z",
+                "end": "2013-12-28T13:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0003217324197475
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:47:00Z",
+                "end": "2013-12-28T13:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00030578291808897
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:50:00Z",
+                "end": "2013-12-28T13:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00048979062833211
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:53:00Z",
+                "end": "2013-12-28T13:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00030895639929872
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:56:00Z",
+                "end": "2013-12-28T13:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00038553111682119
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T13:59:00Z",
+                "end": "2013-12-28T14:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031651405842147
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:02:00Z",
+                "end": "2013-12-28T14:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031916889157802
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:05:00Z",
+                "end": "2013-12-28T14:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00047937919080028
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:08:00Z",
+                "end": "2013-12-28T14:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0003216894880533
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:11:00Z",
+                "end": "2013-12-28T14:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00041612616332143
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:14:00Z",
+                "end": "2013-12-28T14:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00046493927744987
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:17:00Z",
+                "end": "2013-12-28T14:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0003197860538741
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:20:00Z",
+                "end": "2013-12-28T14:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00060779065597432
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:23:00Z",
+                "end": "2013-12-28T14:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00029621230175355
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:26:00Z",
+                "end": "2013-12-28T14:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0002625115779089
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:29:00Z",
+                "end": "2013-12-28T14:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00055027668674787
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:32:00Z",
+                "end": "2013-12-28T14:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00035959625980891
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:35:00Z",
+                "end": "2013-12-28T14:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00052767953987451
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:38:00Z",
+                "end": "2013-12-28T14:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00034491280783503
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:41:00Z",
+                "end": "2013-12-28T14:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00042139387218977
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:44:00Z",
+                "end": "2013-12-28T14:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031863863916381
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:47:00Z",
+                "end": "2013-12-28T14:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00030988837337469
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:50:00Z",
+                "end": "2013-12-28T14:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0004784674344872
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:53:00Z",
+                "end": "2013-12-28T14:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031407403223442
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:56:00Z",
+                "end": "2013-12-28T14:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00040482034941929
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T14:59:00Z",
+                "end": "2013-12-28T15:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00034985326038246
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:02:00Z",
+                "end": "2013-12-28T15:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00033546964779389
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:05:00Z",
+                "end": "2013-12-28T15:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00050587426668907
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:08:00Z",
+                "end": "2013-12-28T15:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00032082904412221
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:11:00Z",
+                "end": "2013-12-28T15:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00040041653999043
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:14:00Z",
+                "end": "2013-12-28T15:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00033996017133266
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:17:00Z",
+                "end": "2013-12-28T15:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00030402318031563
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:20:00Z",
+                "end": "2013-12-28T15:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00064061870292148
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:23:00Z",
+                "end": "2013-12-28T15:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031166551763709
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:26:00Z",
+                "end": "2013-12-28T15:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00027382471194018
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:29:00Z",
+                "end": "2013-12-28T15:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00035189032292411
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:32:00Z",
+                "end": "2013-12-28T15:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00036040494959915
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:35:00Z",
+                "end": "2013-12-28T15:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0005434647923117
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:38:00Z",
+                "end": "2013-12-28T15:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00036008306356696
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:41:00Z",
+                "end": "2013-12-28T15:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.0004287676858491
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:44:00Z",
+                "end": "2013-12-28T15:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00033795690621546
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:47:00Z",
+                "end": "2013-12-28T15:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031265732100987
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:50:00Z",
+                "end": "2013-12-28T15:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00051601599193815
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:53:00Z",
+                "end": "2013-12-28T15:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00031314883640242
+            },
+            {
+                "name": "THIRD NAME",
+                "begin": "2013-12-28T15:56:00Z",
+                "end": "2013-12-28T15:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.00039402057643931
+            }
+        ],
+        [
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T12:59:00Z",
+                "end": "2013-12-28T13:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.81730526372006
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:02:00Z",
+                "end": "2013-12-28T13:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.19500909068368
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:05:00Z",
+                "end": "2013-12-28T13:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.21152500063181
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:08:00Z",
+                "end": "2013-12-28T13:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.11171666118834
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:11:00Z",
+                "end": "2013-12-28T13:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.11375833302736
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:14:00Z",
+                "end": "2013-12-28T13:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.66295052557876
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:17:00Z",
+                "end": "2013-12-28T13:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.45827306600717
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:20:00Z",
+                "end": "2013-12-28T13:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.70611547130023
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:23:00Z",
+                "end": "2013-12-28T13:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.6992178332898
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:26:00Z",
+                "end": "2013-12-28T13:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.96981864864543
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:29:00Z",
+                "end": "2013-12-28T13:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.5192503120467
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:32:00Z",
+                "end": "2013-12-28T13:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.72032285675289
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:35:00Z",
+                "end": "2013-12-28T13:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.65101696273028
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:38:00Z",
+                "end": "2013-12-28T13:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.65201352054911
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:41:00Z",
+                "end": "2013-12-28T13:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.46172855297724
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:44:00Z",
+                "end": "2013-12-28T13:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.72759566358898
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:47:00Z",
+                "end": "2013-12-28T13:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.21876250207424
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:50:00Z",
+                "end": "2013-12-28T13:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.18035999238491
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:53:00Z",
+                "end": "2013-12-28T13:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.10697894817904
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:56:00Z",
+                "end": "2013-12-28T13:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.11765926193308
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T13:59:00Z",
+                "end": "2013-12-28T14:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.85497003793716
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:02:00Z",
+                "end": "2013-12-28T14:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.23346154277141
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:05:00Z",
+                "end": "2013-12-28T14:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.39598182385618
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:08:00Z",
+                "end": "2013-12-28T14:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.18978999257088
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:11:00Z",
+                "end": "2013-12-28T14:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.26698749512434
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:14:00Z",
+                "end": "2013-12-28T14:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.7649628502982
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:17:00Z",
+                "end": "2013-12-28T14:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.63003971805311
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:20:00Z",
+                "end": "2013-12-28T14:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.63839241553997
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:23:00Z",
+                "end": "2013-12-28T14:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.6746258769002
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:26:00Z",
+                "end": "2013-12-28T14:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.95531896065021
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:29:00Z",
+                "end": "2013-12-28T14:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.46225837576543
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:32:00Z",
+                "end": "2013-12-28T14:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.6505469763839
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:35:00Z",
+                "end": "2013-12-28T14:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.54812120379824
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:38:00Z",
+                "end": "2013-12-28T14:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.65007907660433
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:41:00Z",
+                "end": "2013-12-28T14:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.43792341110554
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:44:00Z",
+                "end": "2013-12-28T14:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.530959470852
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:47:00Z",
+                "end": "2013-12-28T14:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.19331537760221
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:50:00Z",
+                "end": "2013-12-28T14:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.11172777745459
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:53:00Z",
+                "end": "2013-12-28T14:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.21431489193693
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:56:00Z",
+                "end": "2013-12-28T14:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.11343750543892
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T14:59:00Z",
+                "end": "2013-12-28T15:02:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.22553812904456
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:02:00Z",
+                "end": "2013-12-28T15:05:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.18577142698424
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:05:00Z",
+                "end": "2013-12-28T15:08:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.18649999661879
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:08:00Z",
+                "end": "2013-12-28T15:11:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.20093392261437
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:11:00Z",
+                "end": "2013-12-28T15:14:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.13150938227773
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:14:00Z",
+                "end": "2013-12-28T15:17:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.51817500591278
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:17:00Z",
+                "end": "2013-12-28T15:20:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.60089999086717
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:20:00Z",
+                "end": "2013-12-28T15:23:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.81079410905598
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:23:00Z",
+                "end": "2013-12-28T15:26:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.57693825792146
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:26:00Z",
+                "end": "2013-12-28T15:29:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 1.0788781873641
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:29:00Z",
+                "end": "2013-12-28T15:32:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.52771970858941
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:32:00Z",
+                "end": "2013-12-28T15:35:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.56659075488215
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:35:00Z",
+                "end": "2013-12-28T15:38:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.6849421283655
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:38:00Z",
+                "end": "2013-12-28T15:41:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.46041922650945
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:41:00Z",
+                "end": "2013-12-28T15:44:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.41476016945955
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:44:00Z",
+                "end": "2013-12-28T15:47:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 1.2387307561361
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:47:00Z",
+                "end": "2013-12-28T15:50:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.26986922667577
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:50:00Z",
+                "end": "2013-12-28T15:53:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.28327441354131
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:53:00Z",
+                "end": "2013-12-28T15:56:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.22960000038147
+            },
+            {
+                "name": "FOURTH NAME",
+                "begin": "2013-12-28T15:56:00Z",
+                "end": "2013-12-28T15:59:00Z",
+                "app": "APP NAME 2",
+                "agent_id": 1224489,
+                "average_response_time": 0.26016362688758
+            }
+        ]
+    ],
+    "timestamp": 1388246447
+}

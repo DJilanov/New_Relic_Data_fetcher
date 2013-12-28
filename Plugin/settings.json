@@ -1,0 +1,22 @@
+{
+    "Newrelic": {
+        "###2":"This is the data access key you get from their website to connect with their api",
+        "app-key":"thisIsNotRealAppKeyItsDummy",
+        "###3":"Set the  ID's that yu want to use",
+        "ConnectionsIds":
+            {
+                "Server1":"first",
+                "Server2":"second",
+                "Server3":"third",
+                "Server4":"fourth"
+            },
+        "###4":"Set the server ID's that yu want to check INTO INTEGER NUMBER",
+         "Servers":
+            [
+                11111111,
+                11111112
+            ],
+        "###5":"Type how many hours in seconds(3600 seconds is 1 hour) before the current moment you want to be fetched",
+        "hoursBefore": 10800 
+    }
+}
