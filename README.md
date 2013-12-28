@@ -1,6 +1,6 @@
 #Description
 
-The easy configurable php data fetcher that can get all the info for your monitored servers directly from Pingdom API
+The easy configurable php data fetcher that can get all the info for your monitored servers directly from NewRelic API
 
 ##When to use
 
@@ -36,7 +36,7 @@ Where each value stands for:
 5. Day of the week(0-7 [7 or 0 == sunday])
 6. /path/to/command - Script or command name to schedule
 
-5. Set the main php script contained in Plugin/get_pingdom_data.php to be run at least 1 time on a daily basis.
+5. Set the main php script contained in Plugin/get_newrelic_data.php to be run at least 1 time on a daily basis.
 
 6. You can actually manually set eveything the script needs to run. Now you just need to put your info into the settings.json that looks like this:
 
@@ -44,9 +44,9 @@ Where each value stands for:
 
 7. There is inline documentation but ill still explain what to do.
 
-1.1. The row under comment 1 is app-key. You must get it from your Pingdom acc and put it here.
+1.1. The row under comment 1 is app-key. You must get it from your Newrelic acc and put it here.
 
-1.2. The row under comment 2 is for the user. You must first type your username, then the symbol ":" and finally your password next to it.
+1.2. The row under comment 2 is for the ids. You must fill them with the id words they use for your things(database and etc.).
 
 1.3.  In the servers tab you only type the last numbers here and leave just the amount of servers you need (add or remove rows in the json)
 
@@ -56,11 +56,13 @@ Where each value stands for:
 
 #### Example Usage
 
-The result will be into the Plugin/storagePingdom.json that looks like this.
+The result will be into the Plugin/storageNewRelic.json that looks like this.
 
 [![Cron home](Screenshots/result.png)](Screenshots/result.png)
 
 There is a summary for each server. "days" holds the 10 days that pingdom returns as output. "Uptime" is the total uptime for the day displayed in seconds (unix time). "avgresponse" relates to the average required calltime and startime which displays when the day gets started.
+
+##### The new relic error script is just the errors call on different file for the people who jsut want to see when there are errors and how often!
 
 ## Requirements
 
