@@ -44,9 +44,9 @@ Where each value stands for:
 
 7. There is inline documentation but ill still explain what to do.
 
-1.1. The row under comment 1 is app-key. You must get it from your Newrelic acc and put it here.
+1.1. The row under comment 2 is app-key. You must get it from your Newrelic acc and put it here.
 
-1.2. The row under comment 2 is for the ids. You must fill them with the id words they use for your things(database and etc.).
+1.2. The row under comment 3 is for the ids. You must fill them with the id words they use for your things(database and etc.).
 
 1.3.  In the servers tab you only type the last numbers here and leave just the amount of servers you need (add or remove rows in the json)
 
@@ -62,7 +62,7 @@ The result will be into the Plugin/storageNewRelic.json that looks like this.
 
 There is a summary for each server. "days" holds the 10 days that pingdom returns as output. "Uptime" is the total uptime for the day displayed in seconds (unix time). "avgresponse" relates to the average required calltime and startime which displays when the day gets started.
 
-##### The new relic error script is just the errors call on different file for the people who jsut want to see when there are errors and how often!
+##### The new relic error script is just the errors call on different file for the people who just want to see when there are errors and how often!
 
 ## Requirements
 
